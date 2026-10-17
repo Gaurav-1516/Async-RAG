@@ -1,0 +1,21 @@
+# Sensitive information
+.env
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+tmp/
